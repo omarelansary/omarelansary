@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Linux System Programming and Introduction Course | University of Colorado Boulder to Buildroot,**
 
-- 👯 I’m currently working as a FreeLancer on [Full-Stack React Developer at padelhubeg](https://padelhubeg.com/)
+- 👯 I’m currently working as a FreeLancer, [Full-Stack React Developer at padelhubeg](https://padelhubeg.com/)
 
 - 🤝 I’m currently an intern **Embedded Linux at Valeo Egypt**
 
