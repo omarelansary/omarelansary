@@ -2,9 +2,6 @@
 <h3 align="center">Software Engineer · AI & Automation Engineer· Entrepreneur</h3>
 
 <p align="center">
-  <a href="https://github.com/omarelansary">
-    <img src="https://komarev.com/ghpvc/?username=omarelansary&label=Profile%20views&style=flat" alt="profile views" />
-  </a>
   <a href="https://github-profile-trophy.vercel.app/?username=omarelansary">
     <img src="https://github-profile-trophy.vercel.app/?username=omarelansary&margin-w=8" alt="github trophies" />
   </a>
@@ -72,6 +69,9 @@
   </a>
   <a href="https://leetcode.com/omarelansary" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://github.com/omarelansary">
+    <img src="https://komarev.com/ghpvc/?username=omarelansary&label=Profile%20views&style=flat" alt="profile views" />
   </a>
 </p>
 
