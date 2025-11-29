@@ -70,9 +70,12 @@
   <a href="https://leetcode.com/omarelansary" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
+</p>
+
+- 📧 Email: **omaressam.ee@gmail.com**
+
+<p align="left">
   <a href="https://github.com/omarelansary">
     <img src="https://komarev.com/ghpvc/?username=omarelansary&label=Profile%20views&style=flat" alt="profile views" />
   </a>
 </p>
-
-- 📧 Email: **omaressam.ee@gmail.com**  
